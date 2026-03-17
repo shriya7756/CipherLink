@@ -17,7 +17,7 @@ Unlike other online file sharing tools that might expose your files to security 
 
 ### Requirements
 
-To run 0xCipherLink, you need to have the following installed:
+To run CipherLink, you need to have the following installed:
 
 - Python 3.x
 - Required Python libraries:
