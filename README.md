@@ -2,7 +2,7 @@
 
 ## Secure File Transfer Tool
 
-**CipherLink**, a secure file transfer tool designed by 0x4m4. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
+**CipherLink**, a secure file transfer tool. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
 
 ### Features
 
