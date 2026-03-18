@@ -48,7 +48,7 @@ To run CipherLink, you need to have the following installed:
 
 1. **Run the Tool**:
     ```sh
-    python 0xCipherLink.py
+    python CipherLink.py
     ```
 
 2. **Sending a File**:
@@ -86,7 +86,7 @@ To run CipherLink, you need to have the following installed:
 
 ### Security
 
-**0xCipherLink** employs several security mechanisms to ensure your files are safe:
+**CipherLink** employs several security mechanisms to ensure your files are safe:
 
 - **AES-256 Encryption**: Strong encryption standard to protect your files.
 - **PBKDF2 with HMAC-SHA256**: Robust key derivation function to secure your password.
